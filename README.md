@@ -1,2 +1,2 @@
-# myProject
+# myProjects
  MERN Stack App
